@@ -17,6 +17,11 @@ Write this codes below on terminal:
 --> dotnet run    
 ```
 ## Getting Started --> Parsing process
+
+![MarketRecipe](https://user-images.githubusercontent.com/118997291/212669840-a5aed684-caa6-4e57-9e57-b347d3b715d2.png)
+
+![image](https://user-images.githubusercontent.com/118997291/212670851-79fec09e-b6a9-4554-87ac-f068cbc8f582.png)
+
 ```
      In this study; I parsed JSON file in different ways and then was written to text file. 
 Firstly, response data was automatically detected and deserialized. Then, texts deserialized were written to AutomaticallyParsed.txt file.
