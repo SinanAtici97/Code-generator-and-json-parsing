@@ -29,7 +29,7 @@ Firstly, response data was automatically detected and deserialized. Then, texts 
      Secondly; to descend the error, by using bounding box coordinates I wanted to parse manually. For this reason, I wrote longer code giving more accurate outputs.
 And then, I wrote these outputs to text to ManuallyParsed.txt file.
 
-     Finally, also I wrote the command outputs to ElaborateData.txt.
+     Finally, also I wrote the command outputs to ElaborateData.txt. (The data was completely correctly written to the command panel however, passing it to the text file as the same line I had a hard time.)
 In this text file, you can reach more detailed information texts on the market recipe, such as coordinates and lines.
 
 File path must be as --> ...\ParseJson> 
