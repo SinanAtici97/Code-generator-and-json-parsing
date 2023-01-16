@@ -40,7 +40,12 @@ Write this codes below on terminal:
 --> cd ParseJson  
 --> dotnet run    
 ```
-
+## Conclusion
+```
+     In this code, my algorithm is calling data from response.description sequentially. In addition, with OCR recorded response data somewhere randomly.
+For these reasons, if the algorithm call line 11, line 12, and then again line 11; these are written like this "line11 line 12 line 11".  
+To fix that it can revise the JSON file or write a dynamic algorithm.
+```
 ## Outputs 
 
 ![DetailedData](https://user-images.githubusercontent.com/118997291/212669598-aa6904da-bed6-4c9b-a88b-f83487908e41.png)
